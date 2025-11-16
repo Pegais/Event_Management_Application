@@ -208,8 +208,8 @@ pm2 startup
 #### 5. Access Your Application
 
 ```
-Frontend: http://YOUR-EC2-PUBLIC-IP:3000
-Backend API: http://YOUR-EC2-PUBLIC-IP:8000
+Frontend: http://13.203.74.116:3000/
+Backend API: http://13.203.74.116:8000/test
 ```
 
 ### Deployment Management
