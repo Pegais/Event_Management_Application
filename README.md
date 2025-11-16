@@ -61,7 +61,7 @@ AWS account (for deployment)
 
 🚀 Local Development Setup
 1. Clone the repository
-bashgit clone https://github.com/your-username/event-management-system.git
+bashgit clone https://github.com/Pegais/Event_Management_Application.git
 cd event-management-system
 2. Setup Backend
 bashcd server
@@ -147,7 +147,7 @@ sudo apt install -y git
 4. Deploy Application
 bash# Clone repository
 cd /home/ubuntu
-git clone https://github.com/your-username/event-management-system.git
+git clone https://github.com/Pegais/Event_Management_Application.git
 cd event-management-system
 
 # Setup Backend
